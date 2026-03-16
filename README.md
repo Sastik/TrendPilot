@@ -309,10 +309,10 @@ Each microservice reacts to events asynchronously.
 * TypeScript
 * SCSS
 
-### Backend
+### Api GatWay
 
-* Node.js
-* NestJS
+* Python
+* FastAPI 
 
 ### AI Services
 
@@ -326,12 +326,6 @@ Each microservice reacts to events asynchronously.
 ### Cache & Streaming
 
 * Redis
-
-### DevOps
-
-* Docker
-* Kubernetes (optional)
-* CI/CD pipelines
 
 ---
 
