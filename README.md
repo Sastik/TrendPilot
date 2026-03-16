@@ -309,10 +309,10 @@ Each microservice reacts to events asynchronously.
 * TypeScript
 * SCSS
 
-### Api GatWay
+### Api Gateway
 
-* Python
-* FastAPI 
+* NodeJs
+* ExpressJs
 
 ### AI Services
 
