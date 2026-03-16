@@ -96,13 +96,151 @@ Think of it as:
 
 > **“An AI engine that predicts what people will want next and tells organizations how to market it.”**
 
-The platform continuously analyzes signals and provides:
 
-* 📈 Trend Detection
-* 🔮 Demand Prediction
-* 📊 Market Intelligence
-* 📣 Campaign Strategy Generation
+# ⚙️ Core Features
 
+The platform continuously analyzes global signals and provides **AI-powered market intelligence and growth automation**.
+
+---
+
+## 1️⃣ Trend Discovery Engine
+
+Continuously scans multiple data sources (search engines, news platforms, and social signals) to detect **rapidly emerging trends in real time**.
+
+Example:
+
+```
+Trend Detected
+Keyword: AI Resume Builder
+Growth Rate: +210%
+Region: India
+Time Window: Last 48 hours
+```
+
+This helps businesses **discover opportunities before the market becomes saturated**.
+
+---
+
+## 2️⃣ Market Demand Prediction
+
+Uses **time-series forecasting models and historical data analysis** to predict future demand.
+
+Example:
+
+```
+Product: Air Cooler
+Predicted Demand Growth: +35%
+Prediction Window: Next 14 Days
+Confidence Score: 0.82
+```
+
+This enables businesses to **prepare products, inventory, and marketing strategies in advance**.
+
+---
+
+## 3️⃣ Ad Campaign Optimization
+
+Suggests the **most effective advertising strategies** based on trend data and audience demand.
+
+The platform automatically recommends:
+
+* best **advertising platforms** (Google Ads, Instagram, YouTube)
+* **target keywords**
+* **daily campaign budget**
+* **best performing regions**
+
+Example:
+
+```
+Keyword: AI Resume Builder
+Platform: Google Ads
+Target Region: India
+Suggested Budget: $30/day
+```
+
+Additionally, TrendPilot provides a **live global demand map** showing where interest is rapidly growing, enabling businesses to **launch targeted ads in high-demand regions**.
+
+---
+
+## 4️⃣ AI Market Analyst
+
+An AI-powered assistant that behaves like a **market research consultant**.
+
+Users can ask questions such as:
+
+```
+Why is "AI Resume Builder" trending?
+```
+
+AI Response:
+
+```
+1. Increased job competition
+2. Rise of AI productivity tools
+3. High search demand in India & Southeast Asia
+```
+
+This helps founders **quickly understand market behavior and consumer demand**.
+
+---
+
+## 5️⃣ Opportunity Detection Engine
+
+Automatically identifies **high-potential business opportunities** by analyzing:
+
+* demand growth
+* competition level
+* market saturation
+* search behavior
+
+Example:
+
+```
+Opportunity Score: 87/100
+Category: AI Resume Tools
+Growth Rate: +190%
+Competition Level: Medium
+```
+
+This helps startups **identify profitable niches early**.
+
+---
+
+## 6️⃣ AI Growth Advisor
+
+A conversational AI advisor that provides **data-driven growth strategies** for startups, creators, and businesses.
+
+Example:
+
+```
+How can I grow a YouTube channel about AI?
+```
+
+AI Response:
+
+```
+1. Create tutorials about AI productivity tools
+2. Target "AI career tools" keywords
+3. Publish short-form AI tips for Instagram & YouTube Shorts
+```
+
+It works like a **24/7 startup growth consultant**.
+
+---
+
+## 7️⃣ AI Campaign Generator (Autonomous Growth Agent)
+
+Automatically generates **complete marketing campaigns** including content ideas and strategies.
+
+Example outputs:
+
+```
+Instagram Post
+"5 AI Tools That Will Replace Resume Writing"
+
+YouTube Video
+"How AI Beats ATS Resume Filters"
+```
 ---
 
 # 🎯 Target Users
